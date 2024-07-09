@@ -1,4 +1,5 @@
 import brainwave from "./brainwave.svg";
+import boring from "./boring.png";
 import check from "./check.svg";
 import brainwaveSymbol from "./brainwave-symbol.svg";
 import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
